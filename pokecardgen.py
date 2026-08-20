@@ -364,7 +364,7 @@ def generate_pokemon_cards(json_path="pokemon_gen1.json", sprites_dir="./sprites
         draw_text(card, bottom_text, start_x_b, 27, font, color=WHITE_COLOR)
         
         # 7. Save File
-        out_path = os.path.join(output_dir, f"{pkmn['name'].lower()}.png")
+        out_path = os.path.join(output_dir, f"{pkmn['id']}.png")
         plt.imsave(out_path, card)
         
     print(f"Finished generating cards in {output_dir}")
