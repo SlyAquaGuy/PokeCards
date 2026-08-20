@@ -1,0 +1,1574 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 5
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "types": [
+      "FRE"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "types": [
+      "FRE"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 3
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "types": [
+      "FRE",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "types": [
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 4
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "types": [
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "types": [
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 5
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "types": [
+      "BUG"
+    ],
+    "hp": 2,
+    "cp": 2,
+    "defense": 2
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "types": [
+      "BUG"
+    ],
+    "hp": 3,
+    "cp": 1,
+    "defense": 3
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "types": [
+      "BUG",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "types": [
+      "BUG",
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 2,
+    "defense": 2
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "types": [
+      "BUG",
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 1,
+    "defense": 3
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "types": [
+      "BUG",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "types": [
+      "NOR",
+      "FLY"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "types": [
+      "NOR",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "types": [
+      "NOR",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "types": [
+      "NOR"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 2
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "types": [
+      "NOR"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "types": [
+      "NOR",
+      "FLY"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 2
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "types": [
+      "NOR",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "types": [
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "types": [
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "types": [
+      "ELE"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "types": [
+      "ELE"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 3
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "types": [
+      "GRD"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 5
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "types": [
+      "GRD"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 6
+  },
+  {
+    "id": 29,
+    "name": "Nidoran\u2640",
+    "types": [
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 2,
+    "defense": 3
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "types": [
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 4
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "types": [
+      "PSN",
+      "GRD"
+    ],
+    "hp": 4,
+    "cp": 5,
+    "defense": 5
+  },
+  {
+    "id": 32,
+    "name": "Nidoran\u2642",
+    "types": [
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "types": [
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "types": [
+      "PSN",
+      "GRD"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "types": [
+      "NOR"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "types": [
+      "NOR"
+    ],
+    "hp": 4,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "types": [
+      "FRE"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "types": [
+      "FRE"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "types": [
+      "NOR"
+    ],
+    "hp": 5,
+    "cp": 2,
+    "defense": 2
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "types": [
+      "NOR"
+    ],
+    "hp": 5,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "types": [
+      "PSN",
+      "FLY"
+    ],
+    "hp": 2,
+    "cp": 2,
+    "defense": 2
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "types": [
+      "PSN",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 5
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "types": [
+      "BUG",
+      "GRS"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "types": [
+      "BUG",
+      "GRS"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "types": [
+      "BUG",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "types": [
+      "BUG",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "types": [
+      "GRD"
+    ],
+    "hp": 1,
+    "cp": 4,
+    "defense": 2
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "types": [
+      "GRD"
+    ],
+    "hp": 2,
+    "cp": 5,
+    "defense": 3
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "types": [
+      "NOR"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 2
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "types": [
+      "NOR"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "types": [
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "types": [
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "types": [
+      "FIG"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 2
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "types": [
+      "FIG"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "types": [
+      "FRE"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "types": [
+      "FRE"
+    ],
+    "hp": 4,
+    "cp": 7,
+    "defense": 4
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "types": [
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "types": [
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "types": [
+      "WTR",
+      "FIG"
+    ],
+    "hp": 4,
+    "cp": 5,
+    "defense": 5
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "types": [
+      "PSY"
+    ],
+    "hp": 1,
+    "cp": 5,
+    "defense": 1
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "types": [
+      "PSY"
+    ],
+    "hp": 2,
+    "cp": 6,
+    "defense": 2
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "types": [
+      "PSY"
+    ],
+    "hp": 3,
+    "cp": 7,
+    "defense": 3
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "types": [
+      "FIG"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "types": [
+      "FIG"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "types": [
+      "FIG"
+    ],
+    "hp": 4,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 2
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 3
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "types": [
+      "GRS",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "types": [
+      "WTR",
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 2
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "types": [
+      "WTR",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "types": [
+      "RCK",
+      "GRD"
+    ],
+    "hp": 2,
+    "cp": 2,
+    "defense": 5
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "types": [
+      "RCK",
+      "GRD"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 6
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "types": [
+      "RCK",
+      "GRD"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 7
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "types": [
+      "FRE"
+    ],
+    "hp": 2,
+    "cp": 5,
+    "defense": 3
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "types": [
+      "FRE"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "types": [
+      "WTR",
+      "PSY"
+    ],
+    "hp": 4,
+    "cp": 2,
+    "defense": 4
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "types": [
+      "WTR",
+      "PSY"
+    ],
+    "hp": 4,
+    "cp": 4,
+    "defense": 6
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "types": [
+      "ELE"
+    ],
+    "hp": 1,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "types": [
+      "ELE"
+    ],
+    "hp": 2,
+    "cp": 5,
+    "defense": 5
+  },
+  {
+    "id": 83,
+    "name": "Farfetch'd",
+    "types": [
+      "NOR",
+      "FLY"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "types": [
+      "NOR",
+      "FLY"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "types": [
+      "NOR",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "types": [
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "types": [
+      "WTR",
+      "ICE"
+    ],
+    "hp": 4,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "types": [
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "types": [
+      "PSN"
+    ],
+    "hp": 4,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "types": [
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 5
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "types": [
+      "WTR",
+      "ICE"
+    ],
+    "hp": 2,
+    "cp": 5,
+    "defense": 9
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "types": [
+      "GST",
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 5,
+    "defense": 2
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "types": [
+      "GST",
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 6,
+    "defense": 3
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "types": [
+      "GST",
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 7,
+    "defense": 4
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "types": [
+      "RCK",
+      "GRD"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 8
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "types": [
+      "PSY"
+    ],
+    "hp": 3,
+    "cp": 2,
+    "defense": 3
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "types": [
+      "PSY"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "types": [
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 5
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "types": [
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 6
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "types": [
+      "ELE"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "types": [
+      "ELE"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "types": [
+      "GRS",
+      "PSY"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 4
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "types": [
+      "GRS",
+      "PSY"
+    ],
+    "hp": 4,
+    "cp": 6,
+    "defense": 5
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "types": [
+      "GRD"
+    ],
+    "hp": 2,
+    "cp": 2,
+    "defense": 5
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "types": [
+      "GRD"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 6
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "types": [
+      "FIG"
+    ],
+    "hp": 2,
+    "cp": 5,
+    "defense": 3
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "types": [
+      "FIG"
+    ],
+    "hp": 2,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "types": [
+      "NOR"
+    ],
+    "hp": 4,
+    "cp": 3,
+    "defense": 4
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "types": [
+      "PSN"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 5
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "types": [
+      "PSN"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 6
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "types": [
+      "GRD",
+      "RCK"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 5
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "types": [
+      "GRD",
+      "RCK"
+    ],
+    "hp": 4,
+    "cp": 5,
+    "defense": 6
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "types": [
+      "NOR"
+    ],
+    "hp": 9,
+    "cp": 1,
+    "defense": 1
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "types": [
+      "GRS"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 6
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "types": [
+      "NOR"
+    ],
+    "hp": 4,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "types": [
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 4
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "types": [
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 5
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "types": [
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 4
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "types": [
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "types": [
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 3
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "types": [
+      "WTR",
+      "PSY"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 5
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "types": [
+      "PSY"
+    ],
+    "hp": 2,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "types": [
+      "BUG",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "types": [
+      "ICE",
+      "PSY"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 2
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "types": [
+      "ELE"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 3
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "types": [
+      "FRE"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 3
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "types": [
+      "BUG"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 5
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "types": [
+      "NOR"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 5
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "types": [
+      "WTR"
+    ],
+    "hp": 1,
+    "cp": 2,
+    "defense": 3
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "types": [
+      "WTR",
+      "FLY"
+    ],
+    "hp": 4,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "types": [
+      "WTR",
+      "ICE"
+    ],
+    "hp": 5,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "types": [
+      "NOR"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "types": [
+      "NOR"
+    ],
+    "hp": 3,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "types": [
+      "WTR"
+    ],
+    "hp": 5,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "types": [
+      "ELE"
+    ],
+    "hp": 3,
+    "cp": 7,
+    "defense": 4
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "types": [
+      "FRE"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 4
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "types": [
+      "NOR"
+    ],
+    "hp": 3,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "types": [
+      "RCK",
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 5
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "types": [
+      "RCK",
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 6
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "types": [
+      "RCK",
+      "WTR"
+    ],
+    "hp": 2,
+    "cp": 4,
+    "defense": 5
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "types": [
+      "RCK",
+      "WTR"
+    ],
+    "hp": 3,
+    "cp": 6,
+    "defense": 6
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "types": [
+      "RCK",
+      "FLY"
+    ],
+    "hp": 3,
+    "cp": 7,
+    "defense": 4
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "types": [
+      "NOR"
+    ],
+    "hp": 6,
+    "cp": 4,
+    "defense": 4
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "types": [
+      "ICE",
+      "FLY"
+    ],
+    "hp": 4,
+    "cp": 6,
+    "defense": 5
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "types": [
+      "ELE",
+      "FLY"
+    ],
+    "hp": 4,
+    "cp": 7,
+    "defense": 5
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "types": [
+      "FRE",
+      "FLY"
+    ],
+    "hp": 4,
+    "cp": 7,
+    "defense": 5
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "types": [
+      "DRG"
+    ],
+    "hp": 2,
+    "cp": 3,
+    "defense": 3
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "types": [
+      "DRG"
+    ],
+    "hp": 3,
+    "cp": 5,
+    "defense": 4
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "types": [
+      "DRG",
+      "FLY"
+    ],
+    "hp": 4,
+    "cp": 7,
+    "defense": 5
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "types": [
+      "PSY"
+    ],
+    "hp": 4,
+    "cp": 9,
+    "defense": 5
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "types": [
+      "PSY"
+    ],
+    "hp": 4,
+    "cp": 7,
+    "defense": 5
+  }
+]
