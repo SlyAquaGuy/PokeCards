@@ -126,45 +126,46 @@ def create_font_library():
     def parse_char(lines):
         return np.array([[1 if c == '#' else 0 for c in line] for line in lines], dtype=np.uint8)
 
-    # Numbers 0-9 (Height 3)
+    # Digits 0-9
     font['0'] = parse_char(["###", "# #", "###"])
-    font['1'] = parse_char([" #", " #", " #"])  # 2x3
-    font['2'] = parse_char(["###", "  #", "###"])
-    font['3'] = parse_char(["###", " ##", "###"])
+    font['1'] = parse_char(["## ", " # ", "###"])
+    font['2'] = parse_char(["## ", " # ", " ##"])
+    font['3'] = parse_char(["###", " ##", "  #"])
     font['4'] = parse_char(["# #", "###", "  #"])
-    font['5'] = parse_char(["###", "## ", "###"])
+    font['5'] = parse_char(["###", " # ", "## "])
     font['6'] = parse_char(["#  ", "###", "###"])
     font['7'] = parse_char(["###", "  #", "  #"])
     font['8'] = parse_char(["###", "###", "###"])
     font['9'] = parse_char(["###", "###", "  #"])
 
-    # Letters a-z (Height 3, mixed 3x3 and 2x3)
-    font['a'] = parse_char(["## ", "###", "# #"])
-    font['b'] = parse_char(["#  ", "###", "###"])  # 2x3
-    font['c'] = parse_char(["###", "#  ", "###"])
-    font['d'] = parse_char(["  #", " ##", " ##"])  # 2x3
-    font['e'] = parse_char(["###", "## ", "###"])
-    font['f'] = parse_char([" ##", " # ", " # "])
-    font['g'] = parse_char(["###", "# #", " ##"])
-    font['h'] = parse_char(["# #", "###", "# #"])
-    font['i'] = parse_char(["#", "#", "#"])        # 1x3
-    font['j'] = parse_char(["  #", "  #", "## "])
-    font['k'] = parse_char(["# #", "## ", "# #"])
-    font['l'] = parse_char(["# ", "# ", "##"])    # 2x3
-    font['m'] = parse_char(["###", "###", "# #"])
-    font['n'] = parse_char(["## ", "# #", "# #"])
-    font['o'] = parse_char(["###", "# #", "###"])
-    font['p'] = parse_char(["## ", "## ", "#  "])  # 2x3
-    font['q'] = parse_char([" ##", " ##", "  #"])  # 2x3
-    font['r'] = parse_char(["## ", "#  ", "#  "])  # 2x3
-    font['s'] = parse_char([" ##", " # ", "## "])
-    font['t'] = parse_char(["###", " # ", " # "])
-    font['u'] = parse_char(["# #", "# #", "###"])
-    font['v'] = parse_char(["# #", "# #", " # "])
-    font['w'] = parse_char(["# #", "###", "###"])
-    font['x'] = parse_char(["# #", " # ", "# #"])
-    font['y'] = parse_char(["# #", "###", "  #"])
-    font['z'] = parse_char(["###", " # ", "###"])
+    # Uppercase & Lowercase A-Z / a-z (Matching the provided font image)
+    font['A'] = font['a'] = parse_char([" # ", "###", "# #"])
+    font['B'] = font['b'] = parse_char(["## ", "###", "## "])
+    font['C'] = font['c'] = parse_char(["###", "#  ", "###"])
+    font['D'] = font['d'] = parse_char(["## ", "# #", "## "])
+    font['E'] = font['e'] = parse_char(["###", "## ", "###"])
+    font['F'] = font['f'] = parse_char(["###", "## ", "#  "])
+    font['G'] = font['g'] = parse_char(["###", "# #", "###"])
+    font['H'] = font['h'] = parse_char(["# #", "###", "# #"])
+    font['I'] = font['i'] = parse_char(["###", " # ", "###"])
+    font['J'] = font['j'] = parse_char(["  #", "  #", "## "])
+    font['K'] = font['k'] = parse_char(["# #", "## ", "# #"])
+    font['L'] = font['l'] = parse_char(["#  ", "#  ", "###"])
+    font['M'] = font['m'] = parse_char(["###", "###", "# #"])
+    font['N'] = font['n'] = parse_char(["## ", "# #", "# #"])
+    font['O'] = font['o'] = parse_char(["###", "# #", "###"])
+    font['P'] = font['p'] = parse_char(["## ", "## ", "#  "])
+    font['Q'] = font['q'] = parse_char(["###", "# #", "###"])
+    font['R'] = font['r'] = parse_char(["## ", "## ", " # "])
+    font['S'] = font['s'] = parse_char([" ##", " # ", "## "])
+    font['T'] = font['t'] = parse_char(["###", " # ", " # "])
+    font['U'] = font['u'] = parse_char(["# #", "# #", "###"])
+    font['V'] = font['v'] = parse_char(["# #", "# #", " # "])
+    font['W'] = font['w'] = parse_char(["# #", "###", "###"])
+    font['X'] = font['x'] = parse_char(["# #", " # ", "# #"])
+    font['Y'] = font['y'] = parse_char(["# #", " # ", " # "])
+    font['Z'] = font['z'] = parse_char(["## ", " # ", " ##"])
+    font[':'] = font[':'] = parse_char([" # ", "   ", " # "])
 
     return font
 
