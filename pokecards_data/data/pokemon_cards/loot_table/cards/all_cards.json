@@ -68,6 +68,23 @@
                   "text": "Bulbasaur"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Bulbasaur",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -133,6 +150,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Ivysaur"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Ivysaur",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -202,6 +236,23 @@
                   "text": "Venusaur"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Venusaur",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -259,6 +310,23 @@
                   "text": "Charmander"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Charmander",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -314,6 +382,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Charmeleon"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Charmeleon",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -383,6 +468,23 @@
                   "text": "Charizard"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Charizard",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -438,6 +540,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Squirtle"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Squirtle",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -497,6 +616,23 @@
                   "text": "Wartortle"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Wartortle",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -552,6 +688,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Blastoise"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Blastoise",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -611,6 +764,23 @@
                   "text": "Caterpie"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Caterpie",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -666,6 +836,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Metapod"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Metapod",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -735,6 +922,23 @@
                   "text": "Butterfree"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Butterfree",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -800,6 +1004,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Weedle"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Weedle",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -869,6 +1090,23 @@
                   "text": "Kakuna"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Kakuna",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -934,6 +1172,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Beedrill"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Beedrill",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -1003,6 +1258,23 @@
                   "text": "Pidgey"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Pidgey",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1068,6 +1340,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Pidgeotto"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Pidgeotto",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -1137,6 +1426,23 @@
                   "text": "Pidgeot"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Pidgeot",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1194,6 +1500,23 @@
                   "text": "Rattata"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Rattata",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1249,6 +1572,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Raticate"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Raticate",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -1318,6 +1658,23 @@
                   "text": "Spearow"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Spearow",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1385,6 +1742,23 @@
                   "text": "Fearow"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Fearow",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1440,6 +1814,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Ekans"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Ekans",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -1499,6 +1890,23 @@
                   "text": "Arbok"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Arbok",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1554,6 +1962,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Pikachu"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Pikachu",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -1613,6 +2038,23 @@
                   "text": "Raichu"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Raichu",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1668,6 +2110,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Sandshrew"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Sandshrew",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -1727,6 +2186,23 @@
                   "text": "Sandslash"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Sandslash",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1784,6 +2260,23 @@
                   "text": "Nidoran Female"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Nidoran Female",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1839,6 +2332,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Nidorina"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Nidorina",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -1908,6 +2418,23 @@
                   "text": "Nidoqueen"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Nidoqueen",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -1965,6 +2492,23 @@
                   "text": "Nidoran Male"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Nidoran Male",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2020,6 +2564,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Nidorino"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Nidorino",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -2089,6 +2650,23 @@
                   "text": "Nidoking"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Nidoking",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2144,6 +2722,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Clefairy"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Clefairy",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -2203,6 +2798,23 @@
                   "text": "Clefable"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Clefable",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2260,6 +2872,23 @@
                   "text": "Vulpix"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Vulpix",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2315,6 +2944,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Ninetales"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Ninetales",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -2384,6 +3030,23 @@
                   "text": "Jigglypuff"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Jigglypuff",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2449,6 +3112,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Wigglytuff"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Wigglytuff",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -2518,6 +3198,23 @@
                   "text": "Zubat"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Zubat",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2583,6 +3280,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Golbat"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Golbat",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -2652,6 +3366,23 @@
                   "text": "Oddish"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Oddish",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2717,6 +3448,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Gloom"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Gloom",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -2786,6 +3534,23 @@
                   "text": "Vileplume"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Vileplume",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2851,6 +3616,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Paras"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Paras",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -2920,6 +3702,23 @@
                   "text": "Parasect"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Parasect",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -2985,6 +3784,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Venonat"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Venonat",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -3054,6 +3870,23 @@
                   "text": "Venomoth"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Venomoth",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3109,6 +3942,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Diglett"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Diglett",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -3168,6 +4018,23 @@
                   "text": "Dugtrio"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Dugtrio",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3223,6 +4090,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Meowth"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Meowth",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -3282,6 +4166,23 @@
                   "text": "Persian"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Persian",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3337,6 +4238,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Psyduck"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Psyduck",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -3396,6 +4314,23 @@
                   "text": "Golduck"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Golduck",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3451,6 +4386,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Mankey"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Mankey",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -3510,6 +4462,23 @@
                   "text": "Primeape"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Primeape",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3565,6 +4534,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Growlithe"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Growlithe",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -3624,6 +4610,23 @@
                   "text": "Arcanine"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Arcanine",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3681,6 +4684,23 @@
                   "text": "Poliwag"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Poliwag",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3736,6 +4756,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Poliwhirl"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Poliwhirl",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -3805,6 +4842,23 @@
                   "text": "Poliwrath"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Poliwrath",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3860,6 +4914,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Abra"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Abra",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -3919,6 +4990,23 @@
                   "text": "Kadabra"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Kadabra",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -3974,6 +5062,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Alakazam"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Alakazam",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -4033,6 +5138,23 @@
                   "text": "Machop"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Machop",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4090,6 +5212,23 @@
                   "text": "Machoke"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Machoke",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4145,6 +5284,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Machamp"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Machamp",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -4214,6 +5370,23 @@
                   "text": "Bellsprout"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Bellsprout",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4279,6 +5452,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Weepinbell"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Weepinbell",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -4348,6 +5538,23 @@
                   "text": "Victreebel"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Victreebel",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4413,6 +5620,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Tentacool"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Tentacool",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -4482,6 +5706,23 @@
                   "text": "Tentacruel"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Tentacruel",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4547,6 +5788,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Geodude"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Geodude",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -4616,6 +5874,23 @@
                   "text": "Graveler"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Graveler",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4683,6 +5958,23 @@
                   "text": "Golem"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Golem",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4740,6 +6032,23 @@
                   "text": "Ponyta"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Ponyta",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4795,6 +6104,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Rapidash"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Rapidash",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -4864,6 +6190,23 @@
                   "text": "Slowpoke"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Slowpoke",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -4929,6 +6272,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Slowbro"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Slowbro",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -4998,6 +6358,23 @@
                   "text": "Magnemite"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Magnemite",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -5063,6 +6440,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Magneton"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Magneton",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -5132,6 +6526,23 @@
                   "text": "Farfetch'd"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Farfetch'd",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -5197,6 +6608,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Doduo"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Doduo",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -5266,6 +6694,23 @@
                   "text": "Dodrio"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Dodrio",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -5321,6 +6766,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Seel"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Seel",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -5390,6 +6852,23 @@
                   "text": "Dewgong"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Dewgong",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -5445,6 +6924,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Grimer"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Grimer",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -5504,6 +7000,23 @@
                   "text": "Muk"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Muk",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -5559,6 +7072,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Shellder"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Shellder",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -5628,6 +7158,23 @@
                   "text": "Cloyster"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Cloyster",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -5693,6 +7240,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Gastly"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Gastly",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -5762,6 +7326,23 @@
                   "text": "Haunter"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Haunter",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -5827,6 +7408,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Gengar"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Gengar",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -5896,6 +7494,23 @@
                   "text": "Onix"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Onix",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -5951,6 +7566,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Drowzee"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Drowzee",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -6010,6 +7642,23 @@
                   "text": "Hypno"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Hypno",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6065,6 +7714,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Krabby"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Krabby",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -6124,6 +7790,23 @@
                   "text": "Kingler"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Kingler",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6181,6 +7864,23 @@
                   "text": "Voltorb"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Voltorb",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6236,6 +7936,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Electrode"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Electrode",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -6305,6 +8022,23 @@
                   "text": "Exeggcute"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Exeggcute",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6372,6 +8106,23 @@
                   "text": "Exeggutor"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Exeggutor",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6427,6 +8178,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Cubone"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Cubone",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -6486,6 +8254,23 @@
                   "text": "Marowak"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Marowak",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6541,6 +8326,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Hitmonlee"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Hitmonlee",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -6600,6 +8402,23 @@
                   "text": "Hitmonchan"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Hitmonchan",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6655,6 +8474,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Lickitung"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Lickitung",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -6714,6 +8550,23 @@
                   "text": "Koffing"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Koffing",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6769,6 +8622,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Weezing"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Weezing",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -6838,6 +8708,23 @@
                   "text": "Rhyhorn"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Rhyhorn",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6905,6 +8792,23 @@
                   "text": "Rhydon"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Rhydon",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -6960,6 +8864,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Chansey"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Chansey",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -7019,6 +8940,23 @@
                   "text": "Tangela"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Tangela",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7074,6 +9012,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Kangaskhan"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Kangaskhan",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -7133,6 +9088,23 @@
                   "text": "Horsea"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Horsea",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7188,6 +9160,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Seadra"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Seadra",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -7247,6 +9236,23 @@
                   "text": "Goldeen"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Goldeen",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7304,6 +9310,23 @@
                   "text": "Seaking"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Seaking",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7359,6 +9382,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Staryu"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Staryu",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -7428,6 +9468,23 @@
                   "text": "Starmie"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Starmie",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7493,6 +9550,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Mr. Mime"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Mr. Mime",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -7562,6 +9636,23 @@
                   "text": "Scyther"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Scyther",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7629,6 +9720,23 @@
                   "text": "Jynx"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Jynx",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7684,6 +9792,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Electabuzz"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Electabuzz",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -7743,6 +9868,23 @@
                   "text": "Magmar"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Magmar",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7798,6 +9940,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Pinsir"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Pinsir",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -7857,6 +10016,23 @@
                   "text": "Tauros"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Tauros",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -7912,6 +10088,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Magikarp"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Magikarp",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -7981,6 +10174,23 @@
                   "text": "Gyarados"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Gyarados",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8048,6 +10258,23 @@
                   "text": "Lapras"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Lapras",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8103,6 +10330,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Ditto"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Ditto",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -8162,6 +10406,23 @@
                   "text": "Eevee"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Eevee",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8217,6 +10478,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Vaporeon"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Vaporeon",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -8276,6 +10554,23 @@
                   "text": "Jolteon"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Jolteon",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8333,6 +10628,23 @@
                   "text": "Flareon"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Flareon",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8388,6 +10700,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Porygon"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Porygon",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -8457,6 +10786,23 @@
                   "text": "Omanyte"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Omanyte",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8522,6 +10868,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Omastar"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Omastar",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -8591,6 +10954,23 @@
                   "text": "Kabuto"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Kabuto",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8656,6 +11036,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Kabutops"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Kabutops",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -8725,6 +11122,23 @@
                   "text": "Aerodactyl"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Aerodactyl",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8780,6 +11194,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Snorlax"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Snorlax",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -8849,6 +11280,23 @@
                   "text": "Articuno"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Articuno",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -8914,6 +11362,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Zapdos"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Zapdos",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -8983,6 +11448,23 @@
                   "text": "Moltres"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Moltres",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -9040,6 +11522,23 @@
                   "text": "Dratini"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Dratini",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -9095,6 +11594,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Dragonair"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Dragonair",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
@@ -9164,6 +11680,23 @@
                   "text": "Dragonite"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Dragonite",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -9221,6 +11754,23 @@
                   "text": "Mewtwo"
                 }
               }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Mewtwo",
+                  "bold": true,
+                  "italic": false
+                }
+              }
             }
           ]
         },
@@ -9276,6 +11826,23 @@
                 },
                 "minecraft:item_name": {
                   "text": "Mew"
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.01
+                }
+              ],
+              "components": {
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:item_name": {
+                  "text": "Mew",
+                  "bold": true,
+                  "italic": false
                 }
               }
             }
