@@ -336,7 +336,8 @@ def generate_pokemon_cards(json_path="pokemon_gen1.json", sprites_dir="./sprites
         sprite = loadcard(sprite_path)
         
         # 3. Create Border from Dominant Color
-        border_color = get_dominant_color(sprite)
+        #border_color = get_dominant_color(sprite)
+        border_color = np.array([0.3, 0.3, 0.3, 1.0], dtype=np.float32)  # grey
         card[0, :] = border_color
         card[-1, :] = border_color
         card[:, 0] = border_color
