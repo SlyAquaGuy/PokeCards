@@ -1,6 +1,13 @@
 {
   "pack": {
-    "pack_format": 48,
-    "description": "Pokemon Card Textures and Models"
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": [
+      107,
+      1
+    ],
+    "description": "Pokemon Card Textures and Models for Minecraft 26.2"
   }
 }

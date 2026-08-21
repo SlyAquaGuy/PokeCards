@@ -1,0 +1,1069 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/001"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/002"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/003"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/004"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/005"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/006"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/007"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/008"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/009"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/010"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/011"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/012"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/013"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/014"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/015"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/016"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/017"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/018"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/019"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/020"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/021"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/022"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/023"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/024"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/025"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/026"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/027"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/028"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/029"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/030"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/031"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/032"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/033"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/034"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/035"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/036"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/037"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/038"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/039"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/040"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/041"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/042"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/043"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/044"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/045"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/046"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/047"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/048"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/049"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/050"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/051"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/052"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/053"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/054"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/055"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/056"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/057"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/058"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/059"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/060"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/061"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/062"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/063"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/064"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/065"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/066"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/067"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/068"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/069"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/070"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/071"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/072"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/073"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/074"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/075"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/076"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/077"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/078"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/079"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/080"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/081"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/082"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/083"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/084"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/085"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/086"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/087"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/088"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/089"
+        }
+      },
+      {
+        "threshold": 90,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/090"
+        }
+      },
+      {
+        "threshold": 91,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/091"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/092"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/093"
+        }
+      },
+      {
+        "threshold": 94,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/094"
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/095"
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/096"
+        }
+      },
+      {
+        "threshold": 97,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/097"
+        }
+      },
+      {
+        "threshold": 98,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/098"
+        }
+      },
+      {
+        "threshold": 99,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/099"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/100"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/101"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/102"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/103"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/104"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/105"
+        }
+      },
+      {
+        "threshold": 106,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/106"
+        }
+      },
+      {
+        "threshold": 107,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/107"
+        }
+      },
+      {
+        "threshold": 108,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/108"
+        }
+      },
+      {
+        "threshold": 109,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/109"
+        }
+      },
+      {
+        "threshold": 110,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/110"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/111"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/112"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/113"
+        }
+      },
+      {
+        "threshold": 114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/114"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/115"
+        }
+      },
+      {
+        "threshold": 116,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/116"
+        }
+      },
+      {
+        "threshold": 117,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/117"
+        }
+      },
+      {
+        "threshold": 118,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/118"
+        }
+      },
+      {
+        "threshold": 119,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/119"
+        }
+      },
+      {
+        "threshold": 120,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/120"
+        }
+      },
+      {
+        "threshold": 121,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/121"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/122"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/123"
+        }
+      },
+      {
+        "threshold": 124,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/124"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/125"
+        }
+      },
+      {
+        "threshold": 126,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/126"
+        }
+      },
+      {
+        "threshold": 127,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/127"
+        }
+      },
+      {
+        "threshold": 128,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/128"
+        }
+      },
+      {
+        "threshold": 129,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/129"
+        }
+      },
+      {
+        "threshold": 130,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/130"
+        }
+      },
+      {
+        "threshold": 131,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/131"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/132"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/133"
+        }
+      },
+      {
+        "threshold": 134,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/134"
+        }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/135"
+        }
+      },
+      {
+        "threshold": 136,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/136"
+        }
+      },
+      {
+        "threshold": 137,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/137"
+        }
+      },
+      {
+        "threshold": 138,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/138"
+        }
+      },
+      {
+        "threshold": 139,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/139"
+        }
+      },
+      {
+        "threshold": 140,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/140"
+        }
+      },
+      {
+        "threshold": 141,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/141"
+        }
+      },
+      {
+        "threshold": 142,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/142"
+        }
+      },
+      {
+        "threshold": 143,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/143"
+        }
+      },
+      {
+        "threshold": 144,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/144"
+        }
+      },
+      {
+        "threshold": 145,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/145"
+        }
+      },
+      {
+        "threshold": 146,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/146"
+        }
+      },
+      {
+        "threshold": 147,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/147"
+        }
+      },
+      {
+        "threshold": 148,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/148"
+        }
+      },
+      {
+        "threshold": 149,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/149"
+        }
+      },
+      {
+        "threshold": 150,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/150"
+        }
+      },
+      {
+        "threshold": 151,
+        "model": {
+          "type": "minecraft:model",
+          "model": "pokemon_cards:item/cards/151"
+        }
+      }
+    ]
+  }
+}

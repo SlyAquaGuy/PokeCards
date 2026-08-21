@@ -1,10 +1,914 @@
 {
-  "parent": "item/generated",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/paper"
+    "layer0": "minecraft:item/paper"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "pokemon_cards:item/bulbasaur" },
-    { "predicate": { "custom_model_data": 2 }, "model": "pokemon_cards:item/ivysaur" }
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "pokemon_cards:item/cards/001"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "pokemon_cards:item/cards/002"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "pokemon_cards:item/cards/003"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "pokemon_cards:item/cards/004"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "pokemon_cards:item/cards/005"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "pokemon_cards:item/cards/006"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "pokemon_cards:item/cards/007"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "pokemon_cards:item/cards/008"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "pokemon_cards:item/cards/009"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "pokemon_cards:item/cards/010"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "pokemon_cards:item/cards/011"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "pokemon_cards:item/cards/012"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "pokemon_cards:item/cards/013"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "pokemon_cards:item/cards/014"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "pokemon_cards:item/cards/015"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "pokemon_cards:item/cards/016"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "pokemon_cards:item/cards/017"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "pokemon_cards:item/cards/018"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "pokemon_cards:item/cards/019"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "pokemon_cards:item/cards/020"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "pokemon_cards:item/cards/021"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "pokemon_cards:item/cards/022"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "pokemon_cards:item/cards/023"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "pokemon_cards:item/cards/024"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "pokemon_cards:item/cards/025"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "pokemon_cards:item/cards/026"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "pokemon_cards:item/cards/027"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "pokemon_cards:item/cards/028"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "pokemon_cards:item/cards/029"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "pokemon_cards:item/cards/030"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "pokemon_cards:item/cards/031"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "pokemon_cards:item/cards/032"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "pokemon_cards:item/cards/033"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "pokemon_cards:item/cards/034"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "pokemon_cards:item/cards/035"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "pokemon_cards:item/cards/036"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "pokemon_cards:item/cards/037"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "pokemon_cards:item/cards/038"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "pokemon_cards:item/cards/039"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "pokemon_cards:item/cards/040"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "pokemon_cards:item/cards/041"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "pokemon_cards:item/cards/042"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "pokemon_cards:item/cards/043"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "pokemon_cards:item/cards/044"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "pokemon_cards:item/cards/045"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "pokemon_cards:item/cards/046"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "pokemon_cards:item/cards/047"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "pokemon_cards:item/cards/048"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "pokemon_cards:item/cards/049"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "pokemon_cards:item/cards/050"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "pokemon_cards:item/cards/051"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "pokemon_cards:item/cards/052"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "pokemon_cards:item/cards/053"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "pokemon_cards:item/cards/054"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "pokemon_cards:item/cards/055"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "pokemon_cards:item/cards/056"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "pokemon_cards:item/cards/057"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "pokemon_cards:item/cards/058"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "pokemon_cards:item/cards/059"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "pokemon_cards:item/cards/060"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "pokemon_cards:item/cards/061"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "pokemon_cards:item/cards/062"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "pokemon_cards:item/cards/063"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "pokemon_cards:item/cards/064"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "pokemon_cards:item/cards/065"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "pokemon_cards:item/cards/066"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "pokemon_cards:item/cards/067"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "pokemon_cards:item/cards/068"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "pokemon_cards:item/cards/069"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "pokemon_cards:item/cards/070"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "pokemon_cards:item/cards/071"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "pokemon_cards:item/cards/072"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "pokemon_cards:item/cards/073"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "pokemon_cards:item/cards/074"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "pokemon_cards:item/cards/075"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "pokemon_cards:item/cards/076"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "pokemon_cards:item/cards/077"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "pokemon_cards:item/cards/078"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "pokemon_cards:item/cards/079"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "pokemon_cards:item/cards/080"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "pokemon_cards:item/cards/081"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "pokemon_cards:item/cards/082"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "pokemon_cards:item/cards/083"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "pokemon_cards:item/cards/084"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "pokemon_cards:item/cards/085"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "pokemon_cards:item/cards/086"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "pokemon_cards:item/cards/087"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "pokemon_cards:item/cards/088"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "pokemon_cards:item/cards/089"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "pokemon_cards:item/cards/090"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "pokemon_cards:item/cards/091"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "pokemon_cards:item/cards/092"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "pokemon_cards:item/cards/093"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "pokemon_cards:item/cards/094"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "pokemon_cards:item/cards/095"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "pokemon_cards:item/cards/096"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "pokemon_cards:item/cards/097"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "pokemon_cards:item/cards/098"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "pokemon_cards:item/cards/099"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "pokemon_cards:item/cards/100"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "pokemon_cards:item/cards/101"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "pokemon_cards:item/cards/102"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "pokemon_cards:item/cards/103"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "pokemon_cards:item/cards/104"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "pokemon_cards:item/cards/105"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "pokemon_cards:item/cards/106"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "pokemon_cards:item/cards/107"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "pokemon_cards:item/cards/108"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "pokemon_cards:item/cards/109"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "pokemon_cards:item/cards/110"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "pokemon_cards:item/cards/111"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "pokemon_cards:item/cards/112"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "pokemon_cards:item/cards/113"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "pokemon_cards:item/cards/114"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "pokemon_cards:item/cards/115"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "pokemon_cards:item/cards/116"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "pokemon_cards:item/cards/117"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "pokemon_cards:item/cards/118"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "pokemon_cards:item/cards/119"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "pokemon_cards:item/cards/120"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "pokemon_cards:item/cards/121"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "pokemon_cards:item/cards/122"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "pokemon_cards:item/cards/123"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "pokemon_cards:item/cards/124"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "pokemon_cards:item/cards/125"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 126
+      },
+      "model": "pokemon_cards:item/cards/126"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 127
+      },
+      "model": "pokemon_cards:item/cards/127"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 128
+      },
+      "model": "pokemon_cards:item/cards/128"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 129
+      },
+      "model": "pokemon_cards:item/cards/129"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130
+      },
+      "model": "pokemon_cards:item/cards/130"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 131
+      },
+      "model": "pokemon_cards:item/cards/131"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 132
+      },
+      "model": "pokemon_cards:item/cards/132"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 133
+      },
+      "model": "pokemon_cards:item/cards/133"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 134
+      },
+      "model": "pokemon_cards:item/cards/134"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 135
+      },
+      "model": "pokemon_cards:item/cards/135"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 136
+      },
+      "model": "pokemon_cards:item/cards/136"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 137
+      },
+      "model": "pokemon_cards:item/cards/137"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 138
+      },
+      "model": "pokemon_cards:item/cards/138"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 139
+      },
+      "model": "pokemon_cards:item/cards/139"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140
+      },
+      "model": "pokemon_cards:item/cards/140"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 141
+      },
+      "model": "pokemon_cards:item/cards/141"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 142
+      },
+      "model": "pokemon_cards:item/cards/142"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 143
+      },
+      "model": "pokemon_cards:item/cards/143"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 144
+      },
+      "model": "pokemon_cards:item/cards/144"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 145
+      },
+      "model": "pokemon_cards:item/cards/145"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 146
+      },
+      "model": "pokemon_cards:item/cards/146"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 147
+      },
+      "model": "pokemon_cards:item/cards/147"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 148
+      },
+      "model": "pokemon_cards:item/cards/148"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 149
+      },
+      "model": "pokemon_cards:item/cards/149"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150
+      },
+      "model": "pokemon_cards:item/cards/150"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 151
+      },
+      "model": "pokemon_cards:item/cards/151"
+    }
   ]
 }
